@@ -3,7 +3,22 @@ body
     text-align: center;
 
 }
+ 
+#output
+{
+    background: lightblue;
+    border-radius: 10px;
+    border-top: 10px solid #f88604;
+    padding: 10px;
+    float: none;
+    text-align: center;
+}
 
-#h1{
-    font-family: 'M PLUS 1 Code', sans-serif;
+input{
+    border-radius: 5px;
+    border-color: lightgreen;
+}
+
+h3{
+    color: white;
 }
