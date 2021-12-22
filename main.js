@@ -20,7 +20,7 @@ document.getElementById("number2").value="";
 }
 
 function check(){
-    get_answer=document.getElementById("input_check_box").value;
+    get_answer=document.getElementById("input_check").value;
      if(get_answer==actual_answer){
         if(answer_turn=="player1"){
             update_player1_score=player1_score+1;
